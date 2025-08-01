@@ -20,12 +20,7 @@ Our mission is to provide law enforcement and security professionals with cuttin
 
 #### Step 1: System Update (Recommended)
 ```bash
- ⚙️ Installation Guide
 
-For Linux (Parrot OS/Kali/Ubuntu)
-
-Step 1: System Update (Recommended)
-```bash
 sudo apt update && sudo apt upgrade -y
 ```
 
